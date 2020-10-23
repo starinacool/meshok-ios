@@ -1,0 +1,10 @@
+{
+    "generationTool": "pwabuilder",
+    "generationToolVersion": "2.0.3-rc.1",
+    "platformId": "cordova",
+    "platformPackage": "pwabuilder-cordova",
+    "platformVersion": "2.0.0-rc.4",
+    "generatedFrom": "CLI",
+    "generationDate": "2020-10-23 16:27:15 Z",
+    "generatedURL": "https://meshok.net/manifest.json?4"
+}
